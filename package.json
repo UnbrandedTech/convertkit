@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ConvertKit/convertkit-api#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "qs": "^6.10.1"
   },
   "devDependencies": {
